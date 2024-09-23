@@ -1,5 +1,3 @@
-/* eslint-disable */
-// import memesData from '../memesData'
 import './Meme.css'
 import { useState, useEffect } from 'react'
 
